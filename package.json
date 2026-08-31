@@ -1,0 +1,24 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Projeto guiado",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaoassencio/clone-tabnews.git"
+  },
+  "author": "João Assencio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joaoassencio/clone-tabnews/issues"
+  },
+  "homepage": "https://github.com/joaoassencio/clone-tabnews#readme",
+  "dependencies": {
+    "next": "^15.5.24",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
